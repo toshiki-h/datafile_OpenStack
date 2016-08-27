@@ -1,0 +1,196 @@
+Reveiw Id,Tag
+2610,Flawed Changes
+2750,Shallow Fix
+2968,Side Effect
+3041,Flawed Changes
+3116,Shallow Fix
+3946,Flawed Changes
+4133,Side Effect
+4342,Flawed Changes
+4798,Flawed Changes
+5333,Flawed Changes
+5727,Side Effect
+5795,Flawed Changes
+6375,Blueprint
+6670,Side Effect
+8591,Flawed Changes
+8721,Squashing Commits
+9157,Shallow Fix
+10414,Test Failure
+11009,Flawed Changes
+11271,Side Effect
+11625,Side Effect
+12491,Persuasion
+12716,Release Schedule
+13738,Flawed Changes
+14537,Side Effect
+15282,Flawed Changes
+16136,Flawed Changes
+17015,Release Schedule
+17018,Patch size
+20222,Patch Dependency
+20242,Unclear Intention
+20432,Persuasion
+20467,Release Schedule
+20485,Release Schedule
+21100,Flawed Changes
+21247,Release Schedule
+21561,Flawed Changes
+22691,Unclear Intention
+23256,Release Schedule
+23262,Persuasion
+23378,Patch size
+23466,Release Schedule
+24073,Patch Dependency
+24224,Release Schedule
+24237,Portability
+24794,Release Schedule
+24878,Side Effect
+24882,Unclear Intention
+26018,Flawed Changes
+26362,Side Effect
+26583,Persuasion
+26684,Flawed Changes
+27177,Release Schedule
+27320,Flawed Changes
+27346,Side Effect
+27606,Test Failure
+27738,Flawed Changes
+27888,Flawed Changes
+27912,Side Effect
+28168,Release Schedule
+28207,Release Schedule
+28239,Release Schedule
+28239,Release Schedule
+28279,Release Schedule
+28280,Release Schedule
+28281,Release Schedule
+28504,Branch Placement
+29005,Flawed Changes
+29410,Test Failure
+29549,Test Coverage
+29645,Branch Placement
+30130,Release Schedule
+30227,Flawed Changes
+30834,Side Effect
+30885,Release Schedule
+30888,Release Schedule
+31014,Flawed Changes
+31389,Release Schedule
+32660,Persuasion
+33135,Flawed Changes
+34260,Side Effect
+34882,Flawed Changes
+35744,Test Failure
+36431,Release Schedule
+37426,Patch Dependency
+37465,Unclear Intention
+37620,Shallow Fix
+37640,Flawed Changes
+38657,Test Coverage
+40097,Test Failure
+40330,Legal Issues
+40539,Legal Issues
+40755,Shallow Fix
+41573,Flawed Changes
+41651,Unclear Intention
+42207,Flawed Changes
+42336,Self-change
+42342,Release Schedule
+42380,Unclear Intention
+42798,Test Failure
+42980,Release Schedule
+43245,Test Failure
+43312,Release Schedule
+43769,Release Schedule
+44243,Unclear Intention
+44293,Release Schedule
+44445,Release Schedule
+44455,Release Schedule
+44709,Release Schedule
+45029,Unclear Intention
+45130,Flawed Changes
+45383,Release Schedule
+45390,Release Schedule
+46081,Patch Dependency
+47145,Side Effect
+47359,Release Schedule
+47579,Release Schedule
+47966,Release Schedule
+48073,Patch size
+48289,Flawed Changes
+48290,Flawed Changes
+48490,Release Schedule
+49508,Release Schedule
+49544,Unclear Intention
+49868,Release Schedule
+51888,Self-change
+51953,Shallow Fix
+53815,Legal Issues
+53871,Flawed Changes
+54430,Unclear Intention
+54918,Flawed Changes
+55425,Unclear Intention
+55437,Shallow Fix
+56077,Shallow Fix
+56405,Self-change
+57118,Shallow Fix
+58599,Portability
+59046,Flawed Changes
+59257,Unclear Intention
+59685,Backward Compatibility
+59918,Release Schedule
+60148,Branch Placement
+60224,Patch Dependency
+60417,Self-change
+60477,Release Schedule
+60550,Patch Dependency
+60680,Shallow Fix
+62280,Blueprint
+62671,Shallow Fix
+63588,Persuasion
+64427,Flawed Changes
+64558,Unclear Intention
+65402,Branch Placement
+66457,Release Schedule
+66469,Release Schedule
+67064,Side Effect
+67304,Release Schedule
+67507,Unclear Intention
+67728,Release Schedule
+68845,Self-change
+69537,Flawed Changes
+69865,Branch Placement
+71070,Self-change
+71219,Shallow Fix
+71401,Persuasion
+71474,Flawed Changes
+71936,Shallow Fix
+72797,Release Schedule
+73223,Release Schedule
+73417,Test Failure
+73980,Shallow Fix
+74922,Blueprint
+75865,Patch Dependency
+76299,Flawed Changes
+77171,Release Schedule
+77301,Flawed Changes
+78114,Release Schedule
+79005,Release Schedule
+79419,Self-change
+79459,Self-change
+79537,Persuasion
+79604,Patch Dependency
+80336,Release Schedule
+81394,Release Schedule
+81882,Patch size
+82416,Release Schedule
+82773,Release Schedule
+84418,Release Schedule
+84584,Release Schedule
+84585,Release Schedule
+84586,Release Schedule
+84897,Patch Dependency
+87372,Shallow Fix
+89188,Persuasion
+90738,Self-change
